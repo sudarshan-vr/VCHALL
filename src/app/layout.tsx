@@ -35,7 +35,7 @@ export default function RootLayout({
 
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${manrope.className} overflow-x-hidden`}>
+      <body className={manrope.className}>
         <ThemeProvider attribute="class" enableSystem={false} defaultTheme="light">
           {!hideLayout && <Header />}
           {children}
