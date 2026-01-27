@@ -100,7 +100,7 @@ const Header = () => {
                                     </div>
                                     <div>
                                         <Link href="tel:+919876543210" className="text-secondary/60 dark:text-white/60 hover:text-secondary dark:hover:text-white">+91 98765 43210</Link>
-                                        <Link href="mailto:contact@vijayalakshmiconventionhall.in"><h4>contact@vijayalakshmiconventionhall.in</h4></Link>
+                                        <Link href="tel:+919876543210"><h4>Call Us</h4></Link>
                                     </div>
                                 </div>
                             }
