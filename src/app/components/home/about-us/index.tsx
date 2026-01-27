@@ -97,8 +97,8 @@ function Aboutus() {
                                 <Image src={"/images/logo/WhiteLogo.svg"} alt="Logo Image" height={44} width={160} className="hidden dark:block"/>
                                 <p>Our global reach allows us to create unique, culturally relevant designs for businesses across different industries.</p>
                             </div>
-                            <div className="absolute -top-72 right-0 border border-secondary/12 dark:border-white/30 rounded-full w-[489px] h-[489px]" />
-                            <div className="absolute -bottom-36 -right-14 border border-secondary/12 dark:border-white/30 rounded-full w-[489px] h-[489px]" />
+                            <div className="absolute -top-72 right-0 border border-secondary/12 dark:border-white/30 rounded-full w-[489px] h-[489px] hidden md:block" />
+                            <div className="absolute -bottom-36 -right-14 border border-secondary/12 dark:border-white/30 rounded-full w-[489px] h-[489px] hidden md:block" />
                         </div>
                     </div>
                 </div>
