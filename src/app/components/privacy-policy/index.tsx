@@ -9,8 +9,8 @@ function PrivacyPolicy() {
                 <div className="container">
                     <div className='flex flex-col gap-1.5 py-10 md:py-20'>
                         <p>
-                            This Privacy Statement explains how personal information about our (potential) customers and other individuals using our services is collected, used, and disclosed by **Getnextjs Template** ("us", "we", "our"). This Privacy Statement describes our privacy practices in relation to the use of our websites, including any customer portals or interactive websites (
-                            <Link href="https://nextjs.org/">https://getnextjstemplates.com/</Link>), our software (Next.js), services, solutions, tools, and related applications, services, and programs, including research and marketing activities, offered by us (the "Services").
+                            This Privacy Statement explains how personal information about our (potential) customers and other individuals using our services is collected, used, and disclosed by **VCHALL** (&quot;us&quot;, &quot;we&quot;, &quot;our&quot;). This Privacy Statement describes our privacy practices in relation to the use of our websites, including any customer portals or interactive websites (
+                            <Link href="https://vchall.vercel.app/">https://vchall.vercel.app/</Link>), our software, services, solutions, tools, and related applications, services, and programs, including research and marketing activities, offered by us (the &quot;Services&quot;).
                         </p>
 
                         <p>
@@ -33,7 +33,7 @@ function PrivacyPolicy() {
 
                             <p>
                                 We do not collect financial information (such as credit card details or security codes). All payments are handled through a third-party provider. If applicable, please refer to their Privacy Policy: 
-                                <Link href="https://getnextjstemplates.com/">https://getnextjstemplates.com/</Link>.
+                                <Link href="https://vchall.vercel.app/">https://vchall.vercel.app/</Link>.
                             </p>
                         </div>
 
@@ -44,7 +44,7 @@ function PrivacyPolicy() {
                             </p>
                             <p className="mt-6">
                                 As noted, we do not collect financial details directly. Payments are processed via third-party providers. Please review their privacy policy for details: 
-                                <Link href="https://getnextjstemplates.com/">https://getnextjstemplates.com/</Link>.
+                                <Link href="https://vchall.vercel.app/">https://vchall.vercel.app/</Link>.
                             </p>
                         </div>
                     </div>

@@ -40,13 +40,6 @@ export default function ScrollToTop() {
         >
           <FaWhatsapp />
         </Link>
-        <Link 
-          href={"https://getnextjstemplates.com/products/endeavor-pro-nextjs-charity-website-template"} 
-          target="_blank" 
-          className="hidden lg:block text-sm bg-primary hover:bg-primary/70 text-secondary font-semibold px-4 py-3.5 leading-none rounded-lg duration-300 text-nowrap"
-        >
-          Get This Template
-        </Link>
       </div>
     </div>
   );
