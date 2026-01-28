@@ -22,8 +22,8 @@ const avatarList = [
 const statsFactData = {
     number: '01',
     name: "About Us",
-    heading: "Welcome to Vijayalakshni Convention Hall.",
-    description: "Vijayalakshni Convention Hall stands as a landmark destination for hosting grand events, conferences, weddings, and exhibitions. Recognized as one of the top convention centres in India, we blend modern architecture with seamless functionality to offer a venue that caters to every occasion. Conveniently located in Bangalore, Neo Convention is celebrated for its exceptional services that ensure memorable events every time.",
+    heading: "Welcome to Vijayalakshmi Convention Hall.",
+    description: "Vijayalakshmi Convention Hall stands as a landmark destination for hosting grand events, conferences, weddings, and exhibitions. Recognized as one of the top convention centres in India, we blend modern architecture with seamless functionality to offer a venue that caters to every occasion. Conveniently located in Bangalore, Neo Convention is celebrated for its exceptional services that ensure memorable events every time.",
     scoreData: [
         {
             number: 500,
